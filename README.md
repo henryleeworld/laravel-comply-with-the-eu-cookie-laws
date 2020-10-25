@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/6ULUwbe.png)
+![](https://i.imgur.com/0vDlGpl.png)
 > 向使用者取得同意聲明
