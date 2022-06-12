@@ -1,4 +1,4 @@
-# Laravel 8 遵守歐盟地區使用者同意授權政策
+# Laravel 9 遵守歐盟地區使用者同意授權政策
 
 引入 spatie 的 laravel-cookie-consent 套件來擴增遵守歐盟地區使用者同意授權政策，依據法規要求，在使用 Cookie 或其他本機儲存空間，並收集、分享及使用廣告個人化需要的個人資料時，都須徵得使用者同意。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/0vDlGpl.png)
+![](https://i.imgur.com/nDj0URZ.png)
 > 向使用者取得同意聲明

@@ -38,8 +38,8 @@ return [
         ],
     ],
     'home' => [
-        'title' => 'Home',    ],
-
+        'title' => 'Home',
+    ],
     'login' => [
         'title' => 'Login',
     ],

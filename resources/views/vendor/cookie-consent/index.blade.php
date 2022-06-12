@@ -1,25 +1,7 @@
 @if($cookieConsentConfig['enabled'] && ! $alreadyConsentedWithCookies)
-    <style>
-        .js-cookie-consent {
-            position: bottom;
-            top: 0px;
-            padding: 10px;
-            text-align: center;
-            width: 100%;
-            z-index: 9999;
-            background-color: #fffbdb;
-            border-color: #fffacc;
-            border: solid 1px;
-        }
-        .js-cookie-consent-agree {
-            cursor: pointer;
-            background: #008ad7;
-            color: #fff;
-            padding-left: 1em;
-            padding-right: 1em;
-        }
-    </style>
-    @include('cookieConsent::dialogContents')
+
+    @include('cookie-consent::dialogContents')
+
     <script>
 
         window.laravelCookieConsent = (function () {

@@ -38,8 +38,8 @@ return [
         ],
     ],
     'home' => [
-        'title' => '首頁',    ],
-
+        'title' => '首頁',
+    ],
     'login' => [
         'title' => '登入',
     ],
